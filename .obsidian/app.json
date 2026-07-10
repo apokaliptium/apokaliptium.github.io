@@ -1,9 +1,6 @@
 {
-  "openBehavior": "daily",
-  "newFileLocation": "current",
-  "attachmentFolderPath": "./",
-  "userIgnoreFilters": [
-    "node_modules/",
-    "node_modules"
-  ]
+	"openBehavior": "daily",
+	"newFileLocation": "current",
+	"attachmentFolderPath": "./",
+	"userIgnoreFilters": ["node_modules", "node_modules/"]
 }

@@ -9,7 +9,7 @@
 		"preview": "astro preview",
 		"astro": "astro",
 		"prepare": "husky",
-		"format": "biome check --write src/*"
+		"format": "biome check --write"
 	},
 	"dependencies": {
 		"@astrojs/markdoc": "^2.0.3",
