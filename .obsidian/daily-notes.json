@@ -1,0 +1,5 @@
+{
+  "folder": "src/content/devlogs",
+  "template": "src/assets/doctemplates/dailylog",
+  "format": "YYYY-MM-DD_\\e\\n\\t\\r\\y\\l\\o\\g"
+}
