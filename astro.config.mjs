@@ -6,6 +6,10 @@ import sitemap from '@astrojs/sitemap';
 
 import partytown from '@astrojs/partytown';
 
+import markdoc from '@astrojs/markdoc';
+
+import mdx from '@astrojs/mdx';
+
 // https://astro.build/config
 export default defineConfig({
     site: "https://apokaliptium.github.io/",
@@ -29,5 +33,5 @@ export default defineConfig({
             ],
             credits: true
         }
-		), sitemap(), partytown()],
+        ), sitemap(), partytown(), markdoc(), mdx()],
 });
