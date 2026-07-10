@@ -1,0 +1,15 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Apokaliptium blockchain developement project group",
+  "description": "The Karma-Backed Blockchain of 65T future souls. A smart-contracted examination process of the Last Judgment. For the Empire of Undead Cosmos.",
+  "short_name": "Apokaliptium.github.io",
+  "icons": [],
+  "scope": "/",
+  "id": "superracer",
+  "start_url": "https://apokaliptium.github.io/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "black",
+  "background_color": "black"
+}
